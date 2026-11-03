@@ -1,0 +1,11 @@
+{
+  "name": "SkillSphere AI",
+  "short_name": "SkillSphere",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#6366F1",
+  "description": "AI-Powered Learning & Skill Development Platform",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
